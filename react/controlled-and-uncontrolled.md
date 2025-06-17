@@ -64,4 +64,8 @@ console.log(inputRef.current.value);
 
 ---
 
-Would you like a visual diagram or markdown summary file for documentation?
+### My Comments 
+- use controlled only
+- `React-hook-form` & `tanstack/react-form` are controlled only
+- controlled components, easy to validate & manage
+- controlled components, good for large form
